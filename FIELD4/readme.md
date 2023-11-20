@@ -1,7 +1,7 @@
 # **FIELD4**
 
 
-FIELD 4 is an affordable, 4 channel open-source ambisonic microphone that could serve as an easyintroduction to mmersive audio. 
+FIELD 4 is an affordable, 4 channel open-source ambisonic microphone that could serve as an easyintroduction to immersive audio. 
 
 
 
