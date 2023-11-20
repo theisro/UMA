@@ -1,7 +1,7 @@
 
 PRACTICAL CONSTRUCTION OF THE MICROPHONE
 
-Building a microphone consists of three parts. The first is the actual physical construction of the microphone. The second part is the calibration of the microphone. The third part is the actual use of the microphone in the field and consequent processing of the audio captured by the microphone in a Digital Audio Workstation. While the first two parts are described in this paper, the third part is beyond the scope of this paper.There are plenty of excellent resources on the internet that will help one do this post-processing and conversion of A format into B format.
+Building a microphone consists of three parts. The first is the actual physical construction of the microphone. The second part is the calibration of the microphone. The third part is the actual use of the microphone in the field and consequent processing of the audio captured by the microphone in a Digital Audio Workstation. While the first two parts are described here, the third part is beyond the scope of this github readme.There are plenty of excellent resources on the internet that will help one do this post-processing and conversion of A format into B format.
 
 
 
