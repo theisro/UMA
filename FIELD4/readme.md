@@ -1,5 +1,4 @@
-
-PRACTICAL CONSTRUCTION OF THE MICROPHONE
+**PRACTICAL CONSTRUCTION OF THE MICROPHONE**
 
 Building a microphone consists of three parts. The first is the actual physical construction of the microphone. The second part is the calibration of the microphone. The third part is the actual use of the microphone in the field and consequent processing of the audio captured by the microphone in a Digital Audio Workstation. While the first two parts are described here, the third part is beyond the scope of this github readme.There are plenty of excellent resources on the internet that will help one do this post-processing and conversion of A format into B format.
 
@@ -55,6 +54,7 @@ Drill a 17.5mm hole into the base of the aluminium block. Insert a bolt and a nu
 
 
 
+![Fig 2](https://github.com/theisro/UMA/assets/28617707/e2714673-8d39-4aef-b444-a9b75703bc71)
 
 Figure 2: Aluminium base before and after processing
 
@@ -63,6 +63,7 @@ Figure 2: Aluminium base before and after processing
 
 
 
+![Fig 3](https://github.com/theisro/UMA/assets/28617707/ebc83816-3416-4478-937f-40f9106bdab2)
 
 
 
@@ -79,6 +80,7 @@ Smooth out and trim the edges of the metal housing on both the sides using the m
 
 
 
+![Fig 4](https://github.com/theisro/UMA/assets/28617707/3f345d20-1835-4ebb-898c-a4f39215045b)
 
 
 Figure 4: Aluminium tube with the hole template before and after drilling.
@@ -91,6 +93,7 @@ Cut a piece of mesh of the size 5.5cm X 10cm from the larger roll. Roll the piec
 
 
 
+![Fig 5](https://github.com/theisro/UMA/assets/28617707/0a0749d3-2750-4d13-94f4-54baedde374f)
 
 Figure 5: Aluminium housing with mesh
 
@@ -101,6 +104,7 @@ An STL file for the 24 holes of 10 mm is required to precisely drill a holes. A 
 
 Use a 3D printer to  print out the tetrahedral array that holds the microphone capsules. Ideally using a high quality 3d printer.We have found out NYLON 12 is a sturdy filament for printing these files
 
+![Fig 6](https://github.com/theisro/UMA/assets/28617707/9d22c4e7-8b9f-44d4-a09c-39770cd706a6)
 
 
 Figure 6: 3D printed template for holes.
