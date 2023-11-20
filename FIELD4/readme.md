@@ -8,6 +8,7 @@ Building a microphone consists of three parts. The first is the actual physical 
 
 
 
+![Fig 1](https://github.com/theisro/UMA/assets/28617707/2fa7f6cc-91c5-49ea-9889-3382e805af23)
 
 
 
