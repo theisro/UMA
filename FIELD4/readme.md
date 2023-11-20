@@ -111,6 +111,7 @@ Figure 6: 3D printed template for holes.
 
 
 
+![Fig 7](https://github.com/theisro/UMA/assets/28617707/32bee21b-bd2c-4bfd-a37e-7dcf64b0ddd9)
 
 
 
