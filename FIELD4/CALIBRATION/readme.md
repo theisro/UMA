@@ -1,1 +1,6 @@
+# CALIBRATING THE FIELD 4
 
+
+Building a microphone is only the first part of the process, the microphone must be calibrated before it can be put to use.Calibration in this context refers to the process of determining and compensating for any discrepancies or variations in the performance of individual microphones within the tetrahedral array. The goal is to ensure that all the microphone capsules exhibit similar characteristics, especially in terms of frequency response and phase, so that the overall system operates cohesively and accurately captures spatial audio. The process of calibration also involves transforming the recordings that we have got from our microphone(usually refereed to as A format) to a B format. This process involves obtaining a 4 x4 filter matrix that we can convolve with each of our 4 microphone capsules.
+Angelo Farina of the University of Parma, has described a process that involves two sets of measurements to obtain a pre-filter and a post filter. A new simplified process involving only one set of measurements is described here. These are also derived from Angelo Farina’s method. 
+Our process involves mounting a tetrahedron on a rotating stepper motor and obtaining a set of 8 measurements(8 positions) for the matrixing process.
