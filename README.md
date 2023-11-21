@@ -4,6 +4,4 @@ Universal Machines for Ambisonics or UMA are a series of Open Source Ambisonic M
 
 [FIELD4](https://github.com/theisro/UMA/blob/main/FIELD4/readme.md)
 
-![FIELD4_from_amazoncom](https://github.com/theisro/UMA/assets/28617707/f454ce74-cad1-4fbf-9957-797d5f4f3b7d)
-
 ![UMAFIELD4PNG](https://github.com/theisro/UMA/assets/28617707/72e14808-2c35-4714-b5a8-f76cc23dbda4)
